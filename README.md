@@ -1,5 +1,5 @@
 # S&P 500 Timeseries Analysis
-This contains an analysis on the top 20 companies of the S&amp;P 500 3 years before and after COVID 19. It is an attempt to research and pontentioaly find the impact of the pandemic in the index.
+This contains an analysis on the top 20 companies of the S&amp;P 500 3 years before and after COVID 19. It is an attempt to research and pontentioaly find the impat of the pandemic in the index.
 
 ## Stock Prices 2016-11-15 - 2019-11-15
 In the code every price graph can be isolated by clicking on its name
