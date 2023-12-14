@@ -44,6 +44,8 @@ After the pass of covid-19 correlation seems stronger among the companie's stock
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/10.png)
 
+## Causality
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/11.png)
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/12.png)
 
