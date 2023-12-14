@@ -24,10 +24,26 @@ Autocorrelation is correlation between the time series with a lagged version of 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/5.png)
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/6.png)
 
+## Correlation
+
+The plot below reveal a stong correlation between S&P 500 and the companies within it which is normal. Also corralation is apparent between the top tech companies as well as visa and mastercard.
+
+### Correlation 2016-11-15 - 2019-11-15
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/7.png)
+#### Correlation network with 0.4 gate
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/8.png)
+
+### Correlation 2019-11-15 - 2022-11-30
+
+After the pass of covid-19 correlation seems stronger among the companie's stocks. That mey eb sufficently explained by the fact thier stock rapidly rised after the virus.
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/9.png)
+
+#### Correlation network with 0.4 gate
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/10.png)
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/11.png)
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/12.png)
 
