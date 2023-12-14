@@ -12,7 +12,7 @@ This contains an analysis on the top 20 companies of the S&amp;P 500 3 years bef
 *In the code every price graph can be isolated by clicking on its name*
 ## Autocorrelation
 
-Autocorrelation is correlation between the time series with a lagged version of itself. Its analysis may reveal thrend and paterns althopught in our case it did not yeild any particular result.
+Autocorrelation is correlation between the time series with a lagged version of itself. Its analysis may reveal trend and patterns although in our case it did not yield any particular result.
 
 ### Autocorrelation Plots for Apple 2016-11-15 - 2019-11-15
 
