@@ -31,7 +31,7 @@ The plot below reveal a stong correlation between S&P 500 and the companies with
 ### Correlation 2016-11-15 - 2019-11-15
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/7.png)
-#### Correlation network with 0.4 gate
+### Correlation network with 0.4 gate
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/8.png)
 
 ### Correlation 2019-11-15 - 2022-11-30
@@ -40,7 +40,7 @@ After the pass of covid-19 correlation seems stronger among the companie's stock
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/9.png)
 
-#### Correlation network with 0.4 gate
+### Correlation network with 0.4 gate
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/10.png)
 
