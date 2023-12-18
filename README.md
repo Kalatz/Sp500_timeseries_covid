@@ -48,11 +48,13 @@ After the pass of covid-19 correlation seems stronger among the companie's stock
 
 Causality in stock prices might be related to the flow of information. For example, in this case positive news about a company's performance may lead to an increase in its stock price as well as similar companiew. On the contrary it may have negative impact in the stock price of a competitor.
 
+In the context of the Granger causality test, lower p-values are generally associated with stronger evidence against the null hypothesis. The null hypothesis in the Granger causality test is that the past values of one time series do not provide useful information in predicting another time series. Therefore, a lower p-value suggests stronger evidence that there is Granger causality.
+
 ### Causality network 2016-11-15 - 2019-11-15
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/11.png)
 
 ### Causality network 2019-11-15 - 2022-11-30
-
+After the pass of covid-19 their seems to be stonger causality between companies stock pricies.
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/12.png)
 
