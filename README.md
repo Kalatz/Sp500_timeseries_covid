@@ -46,6 +46,13 @@ After the pass of covid-19 correlation seems stronger among the companie's stock
 
 ## Causality
 
+Causality in stock prices might be related to the flow of information. For example, in this case positive news about a company's performance may lead to an increase in its stock price as well as similar companiew. On the contrary it may have negative impact in the stock price of a competitor.
+
+### Causality network 2016-11-15 - 2019-11-15
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/11.png)
+
+### Causality network 2019-11-15 - 2022-11-30
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/12.png)
 
