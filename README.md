@@ -1,6 +1,6 @@
 # S&P 500 Timeseries Analysis
 
-This project delves into the stock price time series of the top 20 companies within the S&P 500 index, offering a comprehensive examination of their performance three years prior to and following the onset of the COVID-19 pandemic. The objective is to discern and evaluate the impact of the pandemic on the financial dynamics of these key market players. In our analysis, we exclusively utilize the adjusted close values of the stocks, a metric designed to account for corporate actions such as dividends and stock splits. This approach ensures a more accurate representation of the underlying trends in stock prices, allowing for a focused exploration of the pandemic's influence on the S&P 500 index.
+This project delves into the stock price time series of the top 20 companies within the S&P 500 index, offering an examination of their performance three years prior to and following the onset of the COVID-19 pandemic. The objective is to discern and evaluate the impact of the pandemic on the financial dynamics of these key market players. In our analysis, we exclusively utilize the adjusted close values of the stocks, a metric designed to account for corporate actions such as dividends and stock splits. This approach ensures a more accurate representation of the underlying trends in stock prices, allowing for a focused exploration of the pandemic's influence on the S&P 500 index.
 
 ## Stock Prices 2016-11-15 - 2019-11-15
 
