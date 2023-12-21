@@ -60,3 +60,8 @@ The networks are delineated with a degree of importance set at 5% as a threshold
 After the pass of covid-19 their seems to be stonger causality between companies stock pricies.
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/12.png)
 
+## Linear Regression
+![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare.png)
+![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare%20after.png)
+![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/r%20problem.png)
+![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/regrs.png)
