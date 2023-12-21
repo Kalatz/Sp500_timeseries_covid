@@ -61,7 +61,15 @@ After the pass of covid-19 their seems to be stonger causality between companies
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/12.png)
 
 ## Linear Regression
+
+A $R^2$ Adjusted (*bottom right*) value of 99.5% indicates that approximately 99.5% of the variability in the dependent variable can be explained by the independent variable(s) included in the model.
+
+###2016-11-15 - 2019-11-15
+$R^2$ Adjusted (*bottom right*) is hight
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare.png)
+
+###2019-11-15 - 2022-11-30
+
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare%20after.png)
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/r%20problem.png)
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/regrs.png)
