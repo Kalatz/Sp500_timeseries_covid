@@ -83,7 +83,7 @@ In summary, the post-COVID linear regression analysis indicates a slightly incre
 Dimensionality reduction is significant for enhancing computational efficiency, mitigating overfitting, and improving model interpretability. It facilitates data visualization, reduces noise, and aids in handling collinearity, ultimately contributing to more effective feature representation and model performance.
 
 ### 2016-11-15 - 2019-11-15
-
+<span style='color: red;'>long</span>
 The linear regression analysis after dimensionality reduction, specifically focusing on AbbVie, Alphabet_A, Tesla, and JPMorgan among the first 20 companies of the S&P500 before COVID, provides valuable insights. While the Residual Standard Error (RSE) has increased to 43.56, indicative of a larger deviation in predictions, the model's overall explanatory power remains substantial, with a Multiple R-squared of 0.9632. The Adjusted R-squared, closely aligned with the Multiple R-squared at 0.963, underscores the robustness of the chosen variables in explaining approximately 96.32% of the variance in the dependent variable. The statistically significant F-statistic of 4919, coupled with a p-value < 2.2e-16, reinforces the model's validity. Thus, even with the reduced set of variables, namely AbbVie, Alphabet_A, Tesla, and JPMorgan, this analysis underscores their significant impact on the dependent variable for the selected companies prior to the COVID era.
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/r%20problem.png)
