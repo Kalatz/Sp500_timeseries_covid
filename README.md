@@ -80,7 +80,7 @@ In summary, the post-COVID linear regression analysis indicates a slightly incre
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare%20after.png)
 ## Linear Regression after dimensionality reduction
 
-<span style='color: red;'>long</span> Dimensionality reduction is significant for enhancing computational efficiency, mitigating overfitting, and improving model interpretability. It facilitates data visualization, reduces noise, and aids in handling collinearity, ultimately contributing to more effective feature representation and model performance.
+<span style='color: red;'>Dimensionality</span> reduction is significant for enhancing computational efficiency, mitigating overfitting, and improving model interpretability. It facilitates data visualization, reduces noise, and aids in handling collinearity, ultimately contributing to more effective feature representation and model performance.
 
 ### 2016-11-15 - 2019-11-15
 
