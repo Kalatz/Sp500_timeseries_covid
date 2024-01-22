@@ -95,6 +95,5 @@ The linear regression results after dimensionality reduction post-COVID, with th
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/regrs.png)
 
-[!CAUTION]
-
-This project is for educational use, specifically focusing on time series analysis. It does not constitute financial advice and is not to be relied upon for stock exchange decisions.
+> [!CAUTION]
+> This project is for educational use, specifically focusing on time series analysis. It does not constitute financial advice and is not to be relied upon for stock exchange decisions.
