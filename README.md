@@ -69,6 +69,7 @@ Before COVID-19, the linear regression analysis conducted on the first 20 compan
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare.png)
 
 ### 2019-11-15 - 2022-11-30
+🟣
 The updated linear regression analysis post-COVID for the first 20 companies of the S&P500 reveals some noteworthy findings. Firstly, the increase in the Residual Standard Error (RSE) to 30.39 suggests a higher average deviation of the observed values from the model's predictions compared to the pre-COVID scenario. However, it's important to note that absolute comparisons should be made cautiously, as the scale of the dependent variable may have changed or other external factors may be influencing the data post-COVID.
 
 The Multiple R-squared and Adjusted R-squared (red arrow) values have both increased, reaching 0.9972 and 0.9971, respectively. These exceptionally high values indicate that the updated model explains approximately 99.72% of the variance in the dependent variable, showcasing an even stronger fit than the pre-COVID model. The Adjusted R-squared, being close to the Multiple R-squared, implies that the addition of predictors hasn't introduced substantial complexity.
@@ -80,7 +81,7 @@ In summary, the post-COVID linear regression analysis indicates a slightly incre
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/adjusted%20rsquare%20after.png)
 ## Linear Regression after dimensionality reduction
 
-<span style='color: red;'>Dimensionality</span> reduction is significant for enhancing computational efficiency, mitigating overfitting, and improving model interpretability. It facilitates data visualization, reduces noise, and aids in handling collinearity, ultimately contributing to more effective feature representation and model performance.
+Dimensionality reduction is significant for enhancing computational efficiency, mitigating overfitting, and improving model interpretability. It facilitates data visualization, reduces noise, and aids in handling collinearity, ultimately contributing to more effective feature representation and model performance.
 
 ### 2016-11-15 - 2019-11-15
 
