@@ -94,3 +94,7 @@ The linear regression analysis after dimensionality reduction, specifically focu
 The linear regression results after dimensionality reduction post-COVID, with the exclusion of Nvidia and Alphabet Class C, indicate a robust model. The Residual Standard Error (RSE) 🔵 has slightly increased to 30.82, suggesting a marginally larger deviation in predictions. However, the Multiple R-squared 🟣 of 0.9971 and the Adjusted R-squared 🔴  of 0.997 demonstrate an exceptional level of explained variance, showcasing the model's strong fit to the data. The F-statistic 🟠  of 1.422e+04, with a p-value 🟢 < 2.2e-16, signifies the continued statistical significance of the model. In summary, despite the exclusion of Nvidia and Alphabet Class C, the model remains highly effective in explaining the variability in the dependent variable for the selected companies post-COVID.
 
 ![Alt text](https://github.com/Kalatz/Sp500_timeseries_covid/blob/main/Plots/regrs.png)
+
+[!CAUTION]
+
+This project is for educational use, specifically focusing on time series analysis. It does not constitute financial advice and is not to be relied upon for stock exchange decisions.
