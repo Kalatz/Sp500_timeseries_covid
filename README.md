@@ -49,7 +49,7 @@ Following the resolution of the COVID-19 pandemic, a heightened correlation appe
 
 Causality in stock prices may be intricately linked to the dissemination of information. For instance, positive news regarding a company's performance can result in an upswing in its stock price, as well as in those of similar companies. Conversely, it may exert a negative impact on the stock price of a competitor.
 
-In the context of the Granger causality test, lower p-values generally correspond to more robust evidence against the null hypothesis. The null hypothesis posits that the past values of one time series do not furnish valuable information for predicting another time series. Consequently, a lower ![#f03c15](p-value) 🟢 indicates more compelling evidence supporting the presence of Granger causality.
+In the context of the Granger causality test, lower p-values generally correspond to more robust evidence against the null hypothesis. The null hypothesis posits that the past values of one time series do not furnish valuable information for predicting another time series. Consequently, a lower p-value ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) indicates more compelling evidence supporting the presence of Granger causality.
 
 The networks are delineated with a degree of importance set at 5% as a threshold.
 ### Causality network 2016-11-15 - 2019-11-15
